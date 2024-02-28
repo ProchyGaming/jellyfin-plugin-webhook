@@ -1,5 +1,5 @@
-name: "Webhook"
-guid: "71552A5A-5C5C-4350-A2AE-EBE451A30173"
+name: "Prochy's Webhook"
+guid: "7794e0a2-19d1-4b0e-b888-deacf1647e3e"
 imageUrl: "https://repo.jellyfin.org/releases/plugin/images/jellyfin-plugin-webhook.png"
 version: 14
 targetAbi: "10.9.1.0"

@@ -46,6 +46,7 @@
                 "SubtitleDownloadFailure": "Subtitle Download Failure",
                 "AuthenticationFailure": "Authentication Failure",
                 "AuthenticationSuccess": "Authentication Success",
+                "SessionEnd": "Session End",
                 "SessionStart": "Session Start",
                 "PendingRestart": "Pending Restart",
                 "TaskCompleted": "Task Completed",
