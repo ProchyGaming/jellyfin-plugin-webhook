@@ -51,77 +51,82 @@ public enum NotificationType
     AuthenticationSuccess = 8,
 
     /// <summary>
+    /// Session ended.
+    /// </summary>
+    SessionEnd = 9,
+
+    /// <summary>
     /// Session started.
     /// </summary>
-    SessionStart = 9,
+    SessionStart = 10,
 
     /// <summary>
     /// Server pending restart.
     /// </summary>
-    PendingRestart = 10,
+    PendingRestart = 11,
 
     /// <summary>
     /// Task completed.
     /// </summary>
-    TaskCompleted = 11,
+    TaskCompleted = 12,
 
     /// <summary>
     /// Plugin installation cancelled.
     /// </summary>
-    PluginInstallationCancelled = 12,
+    PluginInstallationCancelled = 13,
 
     /// <summary>
     /// Plugin installation failed.
     /// </summary>
-    PluginInstallationFailed = 13,
+    PluginInstallationFailed = 14,
 
     /// <summary>
     /// Plugin installed.
     /// </summary>
-    PluginInstalled = 14,
+    PluginInstalled = 15,
 
     /// <summary>
     /// Plugin installing.
     /// </summary>
-    PluginInstalling = 15,
+    PluginInstalling = 16,
 
     /// <summary>
     /// Plugin uninstalled.
     /// </summary>
-    PluginUninstalled = 16,
+    PluginUninstalled = 17,
 
     /// <summary>
     /// Plugin updated.
     /// </summary>
-    PluginUpdated = 17,
+    PluginUpdated = 18,
 
     /// <summary>
     /// User created.
     /// </summary>
-    UserCreated = 18,
+    UserCreated = 19,
 
     /// <summary>
     /// User deleted.
     /// </summary>
-    UserDeleted = 19,
+    UserDeleted = 20,
 
     /// <summary>
     /// User locked out.
     /// </summary>
-    UserLockedOut = 20,
+    UserLockedOut = 21,
 
     /// <summary>
     /// User password changed.
     /// </summary>
-    UserPasswordChanged = 21,
+    UserPasswordChanged = 22,
 
     /// <summary>
     /// User updated.
     /// </summary>
-    UserUpdated = 22,
+    UserUpdated = 23,
 
     /// <summary>
     /// User data saved.
     /// </summary>
-    UserDataSaved = 23
+    UserDataSaved = 24
 }
